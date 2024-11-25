@@ -1,0 +1,1 @@
+export const postEndPoint = "https://jsonplaceholder.typicode.com/todos";
