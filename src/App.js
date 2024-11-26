@@ -3,6 +3,7 @@ import './App.css';
 import { navigationLinks } from './routers';
 import Layout from './layout';
 import PageNotFound from './sessions/pagenotfound';
+import Dashboard from './pages/dashboard';
 
 
 function App() {
